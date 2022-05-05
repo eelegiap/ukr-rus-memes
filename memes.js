@@ -129,20 +129,9 @@ function initialize(lookup, data) {
                 var subcats = splitcat[1]
                 var splitsubcats = subcats.split('_')
                 if (splitsubcats[0] == "") {
-                    console.log('is other', splitsubcats)
                     catObj[lookupKey] = 'Other'
                 } else {
                     catObj[lookupKey] = splitsubcats
-                }
-            })
-
-            show.forEach(function(s) {
-                var figureCats = catObj[selectedDD[0]]
-                if (figureCats != null) {
-                    var checkboxAbbrev = lookup[selectedDD][s]
-                    if (figureCats.includes(checkboxAbbrev)) {
-                        figure.transition().style('display','block')
-                    }
                 }
             })
             hide.forEach(function(h) {
@@ -151,6 +140,17 @@ function initialize(lookup, data) {
                     var checkboxAbbrev = lookup[selectedDD][h]
                     if (figureCats.includes(checkboxAbbrev)) {
                         figure.transition().style('display','none')
+                    }
+                }
+            })
+            show.forEach(function(s) {
+                var figureCats = catObj[selectedDD[0]]
+                if (figureCats != null) {
+                    var checkboxAbbrev = lookup[selectedDD][s]
+                    console.log(figureCats, checkboxAbbrev)
+                    if (figureCats.includes(checkboxAbbrev)) {
+                        console.log('INCLUDES!')
+                        figure.transition().style('display','block')
                     }
                 }
             })
