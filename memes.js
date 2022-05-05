@@ -66,6 +66,19 @@ function initialize(lookup, data) {
         })
         .text(function (d) { return d; });
 
+    d3.select('#clearAll').on('click', function() {
+        d3.selectAll('.checkboxes').each(function(d) {
+            d3.select(this).property('checked',false)
+        })
+        update()
+    })
+    d3.select('#showAll').on('click', function() {
+        d3.selectAll('.checkboxes').each(function(d) {
+            d3.select(this).property('checked',true)
+        })
+        update()
+    })
+
     function onDropdown() {
         var selectedVal = d3.select('select').node().value
         var sortedValues = Object.keys(lookup[selectedVal]).sort()
@@ -93,6 +106,7 @@ function initialize(lookup, data) {
     function update() {
         var show = []; var hide = [];
         var selectedDD = d3.select('select').node().value
+
         d3.selectAll('.checkboxes').each(function(d) {
             var isChecked = d3.select(this).property('checked')
             if (isChecked) {

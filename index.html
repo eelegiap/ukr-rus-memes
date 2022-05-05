@@ -41,24 +41,6 @@
   /* max-width: 700px; */
 }
 
-/* Caption of Modal Image */
-#caption {
-  margin: auto;
-  display: block;
-  top: 0;
-  text-align: center;
-  color: #ccc;
-  /* width: 80%; */
-  height: 80vh;
-  /* margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-  
-  padding: 10px 0;
-  height: 150px; */
-}
-
 /* Add Animation */
 .modal-content, #caption {  
   -webkit-animation-name: zoom;
@@ -103,6 +85,16 @@
 }
 #headerRow {
     padding-bottom: 25px;
+    margin: auto;
+    max-width: 80%;
+    min-width: 80%;
+    position: fixed;
+    z-index: 6;
+    background-color: white;
+}
+#memeCols {
+  padding-top: 30vh;
+  z-index: 2;
 }
 
 #checkboxes {
@@ -125,12 +117,15 @@
         <div id='headerRow' class="row">
             <h2>Memes</h2>
             <div id="dropdown"></div>
+            <button type="button" id="clearAll">Clear all checkboxes</button>
+            <button type="button" id="showAll">Show all checkboxes</button>
             <div id="checkboxes"></div>
+            <!-- Clickable button -->
         </div>
         <div class="row">
             <div id="modals" class="col-md-12"></div>
         </div>
-        <div class="row">
+        <div id='memeCols' class="row">
             <div id='col0' class="col-md-3"></div>
             <div id='col1' class="col-md-3"></div>
             <div id='col2' class="col-md-3"></div>
