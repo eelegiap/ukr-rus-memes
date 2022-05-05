@@ -1,0 +1,73 @@
+{
+    "Format": {
+        "Image macro": "IM",
+        "No text": "NT",
+        "Multi-panel": "MP",
+        "2-panel": "2P",
+        "Hand-drawn": "HD"
+    },
+    "Genre": {
+        "Pop culture": "PC",
+        "Ukrainian folk culture": "UFC",
+        "Geopolitics": "GP",
+        "Meta-commentary": "MC",
+        "Military": "MI"
+    },
+    "Template": {
+        "Google search bar": "GSB",
+        "Lisa Simpson's Presentation": "LSP",
+        "Jim Halpert Explains": "JHP",
+        "Peter Parker's Glasses": "PPG",
+        "Dog vs. Werewolf": "DVW",
+        "Roll Safe": "RS",
+        "Bernie Sanders": "BS",
+        "Drake approves/disapproves": "DAD",
+        "Boardroom Suggestion": "BS",
+        "Crying Rage Guy": "CRG",
+        "Copium": "CO",
+        "Chad": "CH",
+        "Will Smith": "WS",
+        "Yes Chad": "YC",
+        "Two Buttons": "TB",
+        "Is This a Pigeon": "ITAP",
+        "Left Exit 12 Off Ramp": "LE",
+        "Limes Guy": "LG",
+        "Sleeping Shaq": "SS",
+        "Disaster Girl": "DG",
+        "Visible From Space": "VFS",
+        "Mother Ignoring Kid Drowning In A Pool": "MIK"
+    },
+    "Stance": {
+        "Ukrainian pride": "UP",
+        "Political & Historical Criticism (pro-Ukraine)": "CPU",
+        "Political & Historical Criticism (other)": "COT",
+        "Denigrating Russia and Putin": "DRP",
+        "Military ridicule and boasting": "MRB",
+        "Zelensky > Putin": "ZVP",
+        "Criticism of Slacktivism": "COS",
+        "Relatable takes": "RT",
+        "Comparisons To": "CT"
+    },
+    "Keywords": {
+        "Crimea": "CR",
+        "Putin": "PU",
+        "Zelensky": "ZE",
+        "Farmer": "FA",
+        "Nuclear weapons": "NW",
+        "Flags": "FL",
+        "Ghost of Kyiv": "GOK",
+        "WWIII": "WWIII",
+        "Covid": "CO",
+        "Finland": "FI",
+        "Germany": "GE",
+        "EU/NATO/UN": "NU",
+        "Poland": "PO",
+        "Sanctions": "SA",
+        "Snake Island / Russian Warship": "SIRW",
+        "Women": "WO",
+        "USA": "USA",
+        "History": "HI",
+        "Moska": "MO",
+        "UK": "UK"
+    }
+}
