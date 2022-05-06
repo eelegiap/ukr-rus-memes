@@ -6,105 +6,15 @@
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 <script src="https://unpkg.com/d3-simple-slider"></script>
 
-<style>
-
-.image {
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.3s;
-  opacity: 1 !important;
-  z-index: 6;
-}
-
-/* The Modal (background) */
-.modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 2;
-  padding-top: 100px; /* Location of the box */
-  right: 0;
-  /* top: 0; */
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  /* background-color: rgb(0,0,0); Fallback color */
-  background-color: rgba(0,0,0,0.7); 
-}
-
-/* Modal Content (image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  cursor: pointer;
-  /* width: 80%; */
-  height: 80vh;
-  /* max-width: 700px; */
-}
-
-/* Add Animation */
-.modal-content, #caption {  
-  -webkit-animation-name: zoom;
-  -webkit-animation-duration: 0.6s;
-  animation-name: zoom;
-  animation-duration: 0.6s;
-}
-
-@-webkit-keyframes zoom {
-  from {-webkit-transform:scale(0)} 
-  to {-webkit-transform:scale(1)}
-}
-
-@keyframes zoom {
-  from {transform:scale(0)} 
-  to {transform:scale(1)}
-}
-
-/* 100% Image Width on Smaller Screens */
-@media only screen and (max-width: 700px){
-  .modal-content {
-    width: 100%;
-  }
-}
-#headerRow {
-    padding-bottom: 25px;
-    margin: auto;
-    max-width: 80%;
-    min-width: 80%;
-    position: fixed;
-    z-index: 6;
-    background-color: white;
-    text-align: center;
-}
-#memeCols {
-  padding-top: 22vh;
-  z-index: 2;
-}
-
-#checkboxes {
-  padding-top: 10px
-}
-
-#checkboxes input{
-  margin: 0px 0px 0px 4px;
-}
-
-#checkboxes label{
-  margin: 0px 20px 0px 3px;
-}
-
-.dropdown {
-  padding-bottom: 10px;
-  display: inline;
-}
-
-</style>
+<link rel="stylesheet" href="styles.css">
 
 
 <body>
 
     <div class="container">
         <div id='headerRow' class="row">
-            <h2>Ukrainian-Russian Meme Wars</h2>
+            <span id="aboutBtn"><a href='about.html'>About the project</a></span>
+            <h2 >Ukrainian-Russian Meme Wars</h2>
             <div class="dropdown" id="dropdown"></div> <div class="dropdown" id="source"></div>
             <button type="button" id="clearAll">Clear all checkboxes</button>
             <button type="button" id="showAll">Show all checkboxes</button>

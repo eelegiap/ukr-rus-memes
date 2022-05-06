@@ -39,9 +39,11 @@
         "Limes Guy": "LG",
         "Sleeping Shaq": "SS",
         "Disaster Girl": "DG",
-        "Visible From Space": "VFS",
+        "IMage macro": "VFS",
         "Mother Ignoring Kid Drowning In A Pool": "MIK",
-        "Swole Doge vs. Cheems": "DO"
+        "Swole Doge vs. Cheems": "DO",
+        "Expected vs. Got": "EVG",
+        "Panik": "PAN"
     },
     "Stance": {
         "Other": "Other",
@@ -59,7 +61,7 @@
         "Crimea": "CR",
         "Putin": "PU",
         "Zelensky": "ZE",
-        "Farmer": "FA",
+        "Farming": "FA",
         "Nuclear weapons": "NW",
         "Flags": "FL",
         "Ghost of Kyiv": "GOK",

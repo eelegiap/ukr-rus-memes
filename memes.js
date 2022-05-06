@@ -82,7 +82,7 @@ function initialize(lookup, data) {
         var selectedSrc = d3.select('#source select').node().value
 
         update()
-        
+
         if (selectedSrc == 'View All Sources') {
             d3.selectAll('.figures').each(function () {
                 d3.select(this).style('display', 'block')
@@ -115,9 +115,13 @@ function initialize(lookup, data) {
     })
 
     function onDropdown() {
+
         var selectedVal = d3.select('#dropdown select').node().value
         var sortedValues = Object.keys(lookup[selectedVal]).sort()
 
+        if (selectedVal == 'Template') {
+            d3.select('#memeCols').style('padding-top','30vh')
+        }
         d3.selectAll('.figures').transition().style('display', 'block')
 
         $('#checkboxes').empty()
