@@ -1,582 +1,335 @@
-[ {
-    "folder": "@MENAConflicted",
-    "files": [
-        {
-            "fileName": "F-IM_2P0G-PC_MI0T-0S-DRP_MRB0K-PU_NW.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "2P"
-                ],
-                "G": [
-                    "PC",
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "DRP",
-                    "MRB"
-                ],
-                "K": [
-                    "PU",
-                    "NW"
-                ]
+[
+    {
+        "folder": "@MENAConflicted (Twitter)",
+        "files": [
+            {
+                "fileName": "F-IM_2P0G-PC_MI0T-0S-DRP_MRB0K-PU_NW.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MC_PC0T-0S-COS0K-.jpg"
+            },
+            {
+                "fileName": "F-NT0G-GP0T-0S-DRP0K-PU_PU.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-GP0T-0S-CPU_DRP0K-HI.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI_GP0T-CO0S-DRP_MRB0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-PC_MI0T-0S-UP_MRB0K-MO_FL.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MC0T-0S-CPU0K-NU_USA_FL.jpg"
+            },
+            {
+                "fileName": "F-IM_UC0G-GP0T-0S-DRP0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-MC0T-0S-COT_CPU0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP_HD0G-GP_MI0T-0S-DRP0K-NW_NU_FL.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-0S-MRB0K-USA_FL.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-MI0T-TB0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-HD_2P0G-GP0T-0K-FL.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-GP_MI0T-SS0S-CPU0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-0S-CPU0K-USA_FL.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-PC_MI0T-0S-MRB0K-FL.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-ITAP0S-CPU0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-LE0S-CPU0K-GE_NU.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-MI0T-0S-MRB_UP0K-GOK.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-0S-COT0K-PU_USA.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-LG_LG0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP_MI0T-0S-MRB0K-CR_UK.jpg"
+            },
+            {
+                "fileName": "F-NT0G-GP0T-0S-DRP0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-0S-RT0K-WWIII.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI_MC0T-0S-COT0K-HI.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-MI_GP0T-SS0S-COT0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-CH_CRG0S-COT0K-USA_HI.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-LG0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-0T-0S-DRP0K-.jpg"
+            },
+            {
+                "fileName": "F-NT0G-GP0T-0S-DRP_ZVP0K-PU.jpg"
+            },
+            {
+                "fileName": "F-HD_NT0G-UFC_MI0T-0S-UP_MRB0K-FA_FL.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-0S-DRP_MRB0K-WO_FL.jpg"
+            },
+            {
+                "fileName": "F-NT0G-PC_MI0T-WS0S-MRB0K-USA_MO.jpg"
+            },
+            {
+                "fileName": "F-IM_UC0G-PC0T-0S-DRP0K-.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-MI_GP0T-0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP_MI0T-0S-CPU_COT_DRP_MRB0K-FL_FI_GE_PO_USA_UK.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI0T-CO0S-DRP_MRB0K-PU_MO.jpg"
+            },
+            {
+                "fileName": "F-MP_IM0G-DA_MIGP0T-0S-DRP0K-PU_FL.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-GP0T-0S-CPU0K-USA.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-GP_MI0T-0S-CPU0K-GE_USA.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-MI_PC0T-0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MI_GP0T-CH0S-UP_MRB0K-FL_PO.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MC0T-0S-CPU0K-USA.jpg"
             }
-        },
-        {
-            "fileName": "F-IM_2P0G-GP0T-0S-CPU_DRP0K-HI.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "2P"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "CPU",
-                    "DRP"
-                ],
-                "K": [
-                    "HI"
-                ]
+        ]
+    },
+    {
+        "folder": "@ukraine (Twitter)",
+        "files": [
+            {
+                "fileName": "F-IM_MP0G-GP_PC0T-0S-CPU_DRP0K-NU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-PC0T-DAD0S-DRP0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP_NT0G-PC_MI0T-PPG0S-MRB_DRP0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-UFC_GP0T-RS0S-UP_CPU0K-CR.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-GP_MI0T-BRS0S-CPU0K-CR.jpg"
+            },
+            {
+                "fileName": "F-IM_HD0G-GP0T-0S-UP_DRP0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-BS0S-CPU_DRP0K-USA.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-GSB0S-CPU0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-PC_GP0T-LSP0S-CPU0K-.jpg"
+            },
+            {
+                "fileName": "F-NT0G-GP0T-0S-DRP0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP_MI0T-0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-PC_UFC_GP0T-0S-UP0K-CR.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-UFC0T-JHP0S-UP0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP_MC0T-0S-CPU_DRP0K-.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-DVW0S-CPU0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP_PC0T-0S-UP_CPU0K-CR.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-GSB0S-DRP_CPU0K-.jpg"
+            },
+            {
+                "fileName": "F-IM_HD0G-UFC_GP0T-0S-UP_CPU0K-CR.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-GP0T-0S-DRP_ZVP0K-PU_ZE.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-GP_MI0T-0S-DRP_MRB0K-.jpg"
             }
-        },
-        {
-            "fileName": "F-IM0G-MI0T-0S-MRB0K-.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "MRB"
-                ],
-                "K": [
-                    ""
-                ]
+        ]
+    },
+    {
+        "folder": "Facebook",
+        "files": [
+            {
+                "fileName": "F-IM_2P0G-GP0T-0S-DRP0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-PC_GP_MI0T-0S-COT0K-GE_PO.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-MI0T-0S-MRB0K-.jpg"
+            },
+            {
+                "fileName": "F-HD_IM0G-MI0T-0S-CPU_DRP0K-AZ.jpg"
+            },
+            {
+                "fileName": "F-HD_NT0G-MC0T-0S-RT0K-CO_NW.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-0S-CPU0K-FL.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-0S-DRP_CPU0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-MC_MI0T-SS0S-COT0K-.jpg"
+            },
+            {
+                "fileName": "F-UC0G-PC0T-0S-RT_ZVP0K-PU_ZE_USA_UK.jpg"
+            },
+            {
+                "fileName": "F-HD_IM0G-GP0T-0S-CPU_DRP0K-PU_ZE_NU.jpg"
+            },
+            {
+                "fileName": "F-IM_UC0G-GP_MI_MC0T-0S-DRP_CPU0K-ZE_AZ.png"
+            },
+            {
+                "fileName": "F-IM_MP0G-MC_PC0T-0S-COS0K-FL.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MC0T-CRG0S-COS0K-FL.jpg"
+            },
+            {
+                "fileName": "F-IM_2P0G-GP0T-0S-UP_DRP0K-PU.jpg"
+            },
+            {
+                "fileName": "F-IM_MP0G-PC0T-0S-UP_DRP0K-HI.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-0S-CPU_DRP0K-FL_PO.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-DO0S-UP_CPU_DRP0K-NU_FL.jpg"
+            },
+            {
+                "fileName": "F-IM0G-MC0T-0S-COS0K-.jpg"
+            },
+            {
+                "fileName": "F-IM_UC0G-MI_UFC0T-0S-UP_MRB0K-FA.jpg"
             }
-        },
-        {
-            "fileName": "F-IM0G-MI0T-0S-DRP_MRB0K-WO.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "DRP",
-                    "MRB"
-                ],
-                "K": [
-                    "WO"
-                ]
+        ]
+    },
+    {
+        "folder": "Instagram",
+        "files": [
+            {
+                "fileName": "F-IM0G-MI0T-0S-MRB0K-MO.png"
+            },
+            {
+                "fileName": "F-IM_MP0G-PC_MI0T-0S-MRB_DRP0K-PU_FL.png"
+            },
+            {
+                "fileName": "F-IM0G-MC0T-0S-RT0K-CO_USA.png"
+            },
+            {
+                "fileName": "F-IM_2P0G-MI0T-0S-MRB0K-.png"
+            },
+            {
+                "fileName": "F-IM0G-UFC_MI0T-0S-MRB0K-PO_FA.png"
+            },
+            {
+                "fileName": "F-NT0G-MI0T-DG0S-UP_MRB0K-.png"
+            },
+            {
+                "fileName": "F-IM_2P0G-PC_GP0T-0S-CPU_DRP0K-FL_USSR.jpg"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-0S-DRP0K-FI_PU.png"
+            },
+            {
+                "fileName": "F-IM0G-MC0T-0S-COS_RT0K-.png"
+            },
+            {
+                "fileName": "F-UC0G-GP_PC0T-0S-DRP_ZVP0K-PU_ZE.png"
+            },
+            {
+                "fileName": "F-IM_2P0G-GP_PC0T-0S-DRP_CPU0K-PU_HIT_HI.png"
+            },
+            {
+                "fileName": "F-IM_MP0G-MI0T-VFS0S-MRB_UP0K-MA.png"
+            },
+            {
+                "fileName": "F-IM0G-GP0T-0S-UP_MRB0K-.png"
+            },
+            {
+                "fileName": "F-IM_MP0G-GP0T-0S-CPU0K-FI_NU.png"
+            },
+            {
+                "fileName": "F-IM0G-UFC_MI0T-0S-UP_MRB0K-FA.png"
+            },
+            {
+                "fileName": "F-IM_MP0G-GP_PC0T-0S-CPU0K-GE.png"
             }
-        },
-        {
-            "fileName": "F-HD_NT0G-UFC_MI0T-0S-UP_MRB0K-FA.jpg",
-            "categories": {
-                "F": [
-                    "HD",
-                    "NT"
-                ],
-                "G": [
-                    "UFC",
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "UP",
-                    "MRB"
-                ],
-                "K": [
-                    "FA"
-                ]
+        ]
+    },
+    {
+        "folder": "Reddit",
+        "files": [
+            {
+                "fileName": "F-IM_2P0G-PC_MC0T-0S-UP_CPU0K-CR.jpg"
             }
-        },
-        {
-            "fileName": "F-HD_2P0G-GP0T-0K-.jpg",
-            "categories": {
-                "F": [
-                    "HD",
-                    "2P"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    ""
-                ],
-                "K": [
-                    ""
-                ]
+        ]
+    },
+    {
+        "folder": "Twitter (other)",
+        "files": [
+            {
+                "fileName": "F-IM0G-UFC0T-0S-CPU_UP0K-HI.jpg"
             }
-        },
-        {
-            "fileName": "F-IM_MP0G-MC0T-0S-COT_CPU0K-PU.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "MP"
-                ],
-                "G": [
-                    "MC"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "COT",
-                    "CPU"
-                ],
-                "K": [
-                    "PU"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM_MP_HD0G-GP_MI0T-0S-DRP0K-NW_NU_FL.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "MP",
-                    "HD"
-                ],
-                "G": [
-                    "GP",
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "DRP"
-                ],
-                "K": [
-                    "NW",
-                    "NU",
-                    "FL"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM_2P0G-MI0T-TB0S-MRB0K-.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "2P"
-                ],
-                "G": [
-                    "MI"
-                ],
-                "T": [
-                    "TB"
-                ],
-                "S": [
-                    "MRB"
-                ],
-                "K": [
-                    ""
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-MI0T-0S-MRB0K-USA.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "MRB"
-                ],
-                "K": [
-                    "USA"
-                ]
-            }
-        },
-        {
-            "fileName": "F-0G-0T-0S-0K-.jpg",
-            "categories": {
-                "F": [
-                    ""
-                ],
-                "G": [
-                    ""
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    ""
-                ],
-                "K": [
-                    ""
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-MI0T-0S-CPU0K-USA.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "CPU"
-                ],
-                "K": [
-                    "USA"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-GP0T-ITAP0S-CPU0K-PU.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    "ITAP"
-                ],
-                "S": [
-                    "CPU"
-                ],
-                "K": [
-                    "PU"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-GP0T-LE0S-CPU0K-GE_NU.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    "LE"
-                ],
-                "S": [
-                    "CPU"
-                ],
-                "K": [
-                    "GE",
-                    "NU"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-GP0T-0S-DRP0K-PU.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "DRP"
-                ],
-                "K": [
-                    "PU"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-GP0T-0S-COT0K-PU_USA.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "COT"
-                ],
-                "K": [
-                    "PU",
-                    "USA"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-GP_MI0T-0S-MRB0K-CR_UK.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "GP",
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "MRB"
-                ],
-                "K": [
-                    "CR",
-                    "UK"
-                ]
-            }
-        },
-        {
-            "fileName": "F-NT0G-GP0T-0S-DRP0K-PU.jpg",
-            "categories": {
-                "F": [
-                    "NT"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "DRP"
-                ],
-                "K": [
-                    "PU"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-MI_MC0T-0S-COT0K-HI.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI",
-                    "MC"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "COT"
-                ],
-                "K": [
-                    "HI"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-MI0T-CH_CRG0S-COT0K-USA_HI.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI"
-                ],
-                "T": [
-                    "CH",
-                    "CRG"
-                ],
-                "S": [
-                    "COT"
-                ],
-                "K": [
-                    "USA",
-                    "HI"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-0T-0S-DRP0K-.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    ""
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "DRP"
-                ],
-                "K": [
-                    ""
-                ]
-            }
-        },
-        {
-            "fileName": "F-NT0G-PC_MI0T-WS0S-MRB0K-USA_MO.jpg",
-            "categories": {
-                "F": [
-                    "NT"
-                ],
-                "G": [
-                    "PC",
-                    "MI"
-                ],
-                "T": [
-                    "WS"
-                ],
-                "S": [
-                    "MRB"
-                ],
-                "K": [
-                    "USA",
-                    "MO"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-MI0T-CO0S-DRP_MRB0K-PU_MO.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI"
-                ],
-                "T": [
-                    "CO"
-                ],
-                "S": [
-                    "DRP",
-                    "MRB"
-                ],
-                "K": [
-                    "PU",
-                    "MO"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM_MP0G-GP0T-0S-CPU0K-USA.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "MP"
-                ],
-                "G": [
-                    "GP"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "CPU"
-                ],
-                "K": [
-                    "USA"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM_2P0G-MI_PC0T-0S-MRB0K-.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "2P"
-                ],
-                "G": [
-                    "MI",
-                    "PC"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "MRB"
-                ],
-                "K": [
-                    ""
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM0G-MI_GP0T-CH0S-UP_MRB0K-FL_PO.jpg",
-            "categories": {
-                "F": [
-                    "IM"
-                ],
-                "G": [
-                    "MI",
-                    "GP"
-                ],
-                "T": [
-                    "CH"
-                ],
-                "S": [
-                    "UP",
-                    "MRB"
-                ],
-                "K": [
-                    "FL",
-                    "PO"
-                ]
-            }
-        },
-        {
-            "fileName": "F-IM_MP0G-PC_MI0T-0S-UP_MRB0K-MO.jpg",
-            "categories": {
-                "F": [
-                    "IM",
-                    "MP"
-                ],
-                "G": [
-                    "PC",
-                    "MI"
-                ],
-                "T": [
-                    ""
-                ],
-                "S": [
-                    "UP",
-                    "MRB"
-                ],
-                "K": [
-                    "MO"
-                ]
-            }
-        }
-    ]
-}
+        ]
+    }
 ]

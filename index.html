@@ -76,7 +76,7 @@
     text-align: center;
 }
 #memeCols {
-  padding-top: 30vh;
+  padding-top: 22vh;
   z-index: 2;
 }
 
@@ -92,9 +92,11 @@
   margin: 0px 20px 0px 3px;
 }
 
-#dropdown {
+.dropdown {
   padding-bottom: 10px;
+  display: inline;
 }
+
 </style>
 
 
@@ -103,7 +105,7 @@
     <div class="container">
         <div id='headerRow' class="row">
             <h2>Ukrainian-Russian Meme Wars</h2>
-            <div id="dropdown"></div>
+            <div class="dropdown" id="dropdown"></div> <div class="dropdown" id="source"></div>
             <button type="button" id="clearAll">Clear all checkboxes</button>
             <button type="button" id="showAll">Show all checkboxes</button>
             <div id="checkboxes"></div>
