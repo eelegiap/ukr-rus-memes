@@ -67,7 +67,7 @@ function initialize(lookup, data) {
         .enter().append("option")
         .attr("value", function (d) { return d; })
         .text(function (d) { return d; })
-    d3.select('#dropdown select').property('value', 'Genre')
+    d3.select('#dropdown select').property('value', 'Stance')
 
     d3.select("#source").append("select")
         .on("change", sourceChange)
