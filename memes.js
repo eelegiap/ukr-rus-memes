@@ -33,6 +33,7 @@ function initialize(lookup, data) {
                 .attr('src', `${folder['folder']}/${file.fileName}`)
                 .style('width', '100%')
             figure.append('figcaption')
+                .style('padding-top','10px')
                 .text(folder['folder'])
                 .style('color', '#ccc')
                 .style('font-size', '10px')
